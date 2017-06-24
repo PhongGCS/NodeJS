@@ -1,0 +1,21 @@
+{
+  "name": "learnbasic",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dokhacphong19969x@gmail.com"
+  },
+  "keywords": [
+    "PhongGCS"
+  ],
+  "author": "DoKhacPhong",
+  "license": "ISC",
+  "dependencies": {
+    "node-persist": "0.0.8"
+  }
+}
